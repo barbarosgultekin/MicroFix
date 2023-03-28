@@ -1,0 +1,12 @@
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.deps.json
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.dll
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.pdb
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.csproj.AssemblyReference.cache
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.dll
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\refint\OrderService.Infrastructure.dll
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.pdb
+C:\FIX\MicroFix\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\ref\OrderService.Infrastructure.dll

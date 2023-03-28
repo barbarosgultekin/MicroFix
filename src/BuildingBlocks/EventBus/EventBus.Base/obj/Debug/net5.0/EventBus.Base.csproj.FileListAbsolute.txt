@@ -1,0 +1,12 @@
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.deps.json
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.dll
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.pdb
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.csproj.AssemblyReference.cache
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.AssemblyInfo.cs
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.csproj.CoreCompileInputs.cache
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.dll
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\refint\EventBus.Base.dll
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.pdb
+C:\FIX\MicroFix\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\ref\EventBus.Base.dll
